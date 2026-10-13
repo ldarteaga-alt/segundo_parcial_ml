@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Cache de Jupyter
+.ipynb_checkpoints/
+
+# Gráficas intermedias (una por grado)
+resultados/train_*_deg_*.png
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
